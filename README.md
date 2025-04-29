@@ -16,10 +16,10 @@ A dynamic web dashboard built with React.js that allows users to:
 
 ---
 ** Home Page **
-[Home Page](https://res.cloudinary.com/dqhyudo4x/image/upload/v1745935321/WhatsApp_Image_2025-04-29_at_19.08.41_fe09edfc_tjknck.jpg)
+![Home Page](https://res.cloudinary.com/dqhyudo4x/image/upload/v1745935321/WhatsApp_Image_2025-04-29_at_19.08.41_fe09edfc_tjknck.jpg)
 
 ** Dashboard Page **
-[Dashboard Page](https://res.cloudinary.com/dqhyudo4x/image/upload/v1745935289/WhatsApp_Image_2025-04-29_at_19.01.33_ef00932a_g6ynhh.jpg)
+![Dashboard Page](https://res.cloudinary.com/dqhyudo4x/image/upload/v1745935289/WhatsApp_Image_2025-04-29_at_19.01.33_ef00932a_g6ynhh.jpg)
 
 
 ## 🚀 Features
