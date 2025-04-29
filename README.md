@@ -7,23 +7,20 @@ A dynamic web dashboard built with React.js that allows users to:
 - Sort and search stocks
 - Visualize price trends using mini line charts
 - Use fallback local data when the API limit is exceeded
- <svg viewBox="0 0 400 100" className="w-full h-32 text-blue-500">
-          <polyline
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="4"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            points="0,60 50,40 100,45 150,30 200,50 250,20 300,60 350,40 400,70"
-            className="animate-pulse"
-          />
+ 
 
 ## 🌐 Live Demo
 
 👉 [Visit the Dashboard]( https://stockdashbypj.netlify.app)  
-*(Replace with your actual URL)*
+
 
 ---
+** Home Page **
+[Home Page](https://res.cloudinary.com/dqhyudo4x/image/upload/v1745935321/WhatsApp_Image_2025-04-29_at_19.08.41_fe09edfc_tjknck.jpg)
+
+** Dashboard Page **
+[Dashboard Page](https://res.cloudinary.com/dqhyudo4x/image/upload/v1745935289/WhatsApp_Image_2025-04-29_at_19.01.33_ef00932a_g6ynhh.jpg)
+
 
 ## 🚀 Features
 
