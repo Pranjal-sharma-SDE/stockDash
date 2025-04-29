@@ -1,8 +1,3 @@
-Absolutely! Here's a detailed `README.md` for your **Stock Price Dashboard** project, covering project description, setup, usage, technologies, and deployment instructions. It includes placeholders where you can insert your actual deployment URL (Netlify.).
-
----
-
-```markdown
 # 📈 Stock Price Dashboard
 
 A dynamic web dashboard built with React.js that allows users to:
@@ -12,10 +7,20 @@ A dynamic web dashboard built with React.js that allows users to:
 - Sort and search stocks
 - Visualize price trends using mini line charts
 - Use fallback local data when the API limit is exceeded
+ <svg viewBox="0 0 400 100" className="w-full h-32 text-blue-500">
+          <polyline
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="4"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            points="0,60 50,40 100,45 150,30 200,50 250,20 300,60 350,40 400,70"
+            className="animate-pulse"
+          />
 
 ## 🌐 Live Demo
 
-👉 [Visit the Dashboard](https://your-deployment-url.netlify.app)  
+👉 [Visit the Dashboard]( https://stockdashbypj.netlify.app)  
 *(Replace with your actual URL)*
 
 ---
